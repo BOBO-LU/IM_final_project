@@ -2,3 +2,4 @@
 
 
 froggy_news.ipynb 是目前分析的資料
+git
